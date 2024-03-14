@@ -63,7 +63,7 @@ This command will download and install the Pygame library along with its depende
 #### Step 4: Clone the repository:
 Clone the repository from terminal
 ```
-git clone https://github.com/adityaK1950/Space-Invader-Game-in-Python
+git clone 
 ```
 or direct download the [zip file]()
 
