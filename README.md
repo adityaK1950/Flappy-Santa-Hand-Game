@@ -65,7 +65,7 @@ Clone the repository from terminal
 ```
 git clone https://github.com/adityaK1950/Flappy-Santa-Hand-Game
 ```
-or direct download the [zip file]()
+or direct download the [zip file](https://github.com/adityaK1950/Flappy-Santa-Hand-Game)
 
 #### Step 5: Run the Game:
 
